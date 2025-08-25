@@ -1,12 +1,23 @@
 🚀 AI-Powered Career Guidance Platform
+
 Welcome to the AI-Powered Career Guidance Platform! This interactive web application leverages the power of Google's Gemini API and LangChain to provide users with personalized career insights, detailed market analysis, and tailored learning roadmaps.
-✨ Features🔍 Career Discovery: Explore a wide range of career paths across different industries like Technology, Healthcare, Business, and Creative fields.
+✨ Features
+🔍 Career Discovery: Explore a wide range of career paths across different industries like Technology, Healthcare, Business, and Creative fields.
+
 📊 In-Depth Analysis: Get a comprehensive overview of any selected career, including key responsibilities, required skills, and educational background.
+
 📈 Real-Time Market Insights: Analyze current job market trends, salary ranges by experience level, job growth projections, and geographic hotspots for opportunities.
+
 📚 Personalized Learning Roadmaps: Receive a custom-tailored learning plan based on your experience level, with recommended courses, resources, and timelines.
+
 💬 AI Chat Assistant: Engage in a conversation with an AI-powered assistant to ask specific questions about your chosen career path.
+
 👤 User Profile & Skills Assessment: Create a personal profile and rate your skills to receive more tailored recommendations.
-🛠️ Tech StackBackend: PythonWeb Framework: StreamlitAI/LLM Orchestration: LangChainLanguage Model: Google Gemini APIWeb Search: SerpAPIData Visualization: Plotly⚙️ Setup and InstallationFollow these steps to set up and run the project on your local machine.1. Clone the Repositorygit clone https://github.com/DhairyaGoel05/-AI-Powered-Career-Guidance-Platform.git
+
+🛠️ Tech StackBackend: PythonWeb Framework: StreamlitAI/LLM Orchestration: LangChainLanguage Model: Google Gemini APIWeb Search: SerpAPIData Visualization: Plotly
+
+⚙️ Setup and InstallationFollow these steps to set up and run the project on your local machine.1. Clone the Repositorygit clone https://github.com/DhairyaGoel05/-AI-Powered-Career-Guidance-Platform.git
+
 cd -AI-Powered-Career-Guidance-Platform
 
 2. Create a Conda EnvironmentIt's recommended to use a Conda environment to manage dependencies.# Create a new environment with Python 3.10
