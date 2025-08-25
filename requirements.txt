@@ -1,0 +1,7 @@
+streamlit
+langchain
+langchain-community
+langchain-google-genai # Add this line
+langchain-openai # Keep this if you want the option to switch back
+crewai
+embedchain
